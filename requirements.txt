@@ -1,0 +1,7 @@
+Flask
+SpeechRecognition
+gtts
+transformers
+torch
+pandas
+scikit-learn
